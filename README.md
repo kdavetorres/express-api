@@ -44,8 +44,14 @@ Stopping a server running
  Ctrl + c
 ```
 
-### Database
+### NPM Database
 
 ```
 npm i mysql
+```
+
+### NPM Timestamp
+
+```
+npm i momemt
 ```
