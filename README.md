@@ -53,5 +53,5 @@ npm i mysql
 ### NPM Timestamp
 
 ```
-npm i momemt
+npm i moment
 ```
