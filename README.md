@@ -55,3 +55,9 @@ npm i mysql
 ```
 npm i moment
 ```
+
+### NPM Cors Package
+
+```
+npm install cors
+```
