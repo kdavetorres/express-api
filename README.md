@@ -5,8 +5,7 @@ Creating own API using Node JS package > express and MySql Database.
 ## Getting Started
 
 ### Installation
-
-- Install node js
+Install node js
 
 ```
 npm init -y
