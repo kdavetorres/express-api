@@ -54,7 +54,7 @@ app.get('/api/members/:id', (req, res) => {
   });
 });
 
-/* POST */
+/* POST || INSERT*/
 app.post('/api/members', (req, res) => {
   var fname = req.body.fname;
   var lname = req.body.lname;
@@ -70,7 +70,7 @@ app.post('/api/members', (req, res) => {
 });
 
 
-// UPDATE
+// UPDATE || PUT
 app.put('/api/members', (req, res) => {
   var fname = req.body.fname;
   var lname = req.body.lname;
